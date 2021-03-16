@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: https://ammonshepherd.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-gh
+baseurl: /nazi-tunnels
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/ammonshepherd/nazi-tunnels.git
 
 ##########
 # SITE SETTINGS
@@ -20,18 +20,18 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Nazi Tunnels
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Samuel and Irene Goudsmit collection, courtesy of the U.S. Holocaust Memorial Museum, Washington, DC
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "A repository of documents relating to Nazi built underground factories during WWII. "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: ammonshepherd
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata
+metadata: ushmm-documents
 
 ##########
 # GOOGLE SERVICES [optional!]
